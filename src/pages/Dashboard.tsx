@@ -13,7 +13,7 @@ export default function Dashboard() {
         <div>
           <h1 className="text-3xl font-bold tracking-tight">Dashboard</h1>
           <p className="text-muted-foreground">
-            Welcome back, Dr. Jane Doe. Here's an overview of your clinic.
+            Welcome back, Dr. Jayanth. Here's an overview of your clinic.
           </p>
         </div>
         

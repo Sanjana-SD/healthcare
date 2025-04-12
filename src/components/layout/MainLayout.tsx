@@ -96,7 +96,7 @@ export default function MainLayout({ children }: MainLayoutProps) {
                     <AvatarFallback className="bg-medical-lightBlue text-white">JD</AvatarFallback>
                   </Avatar>
                   <div className="hidden lg:flex flex-col overflow-hidden">
-                    <span className="font-medium">Dr. Jane Doe</span>
+                    <span className="font-medium">Dr. Jayanth</span>
                     <span className="truncate text-xs text-muted-foreground">Junior Resident</span>
                   </div>
                 </div>
@@ -136,7 +136,7 @@ export default function MainLayout({ children }: MainLayoutProps) {
                             <AvatarFallback className="bg-medical-lightBlue text-white">JD</AvatarFallback>
                           </Avatar>
                           <div className="flex flex-col">
-                            <span className="font-medium">Dr. Jane Doe</span>
+                            <span className="font-medium">Dr. Jayanth</span>
                             <span className="text-xs text-muted-foreground">Junior Resident</span>
                           </div>
                         </div>

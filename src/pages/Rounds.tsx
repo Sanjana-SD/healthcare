@@ -76,7 +76,7 @@ export default function Rounds() {
   const roundPatients = [
     {
       id: 1,
-      name: 'Robert Johnson',
+      name: 'Rohan',
       age: 68,
       room: '204-A',
       diagnosis: 'Hypertension, Type 2 Diabetes',
@@ -92,7 +92,7 @@ export default function Rounds() {
     },
     {
       id: 2,
-      name: 'Maria Garcia',
+      name: 'Maria',
       age: 42,
       room: '105-B',
       diagnosis: 'Post-Op Recovery (Appendectomy)',
@@ -108,7 +108,7 @@ export default function Rounds() {
     },
     {
       id: 3,
-      name: 'James Williams',
+      name: 'James',
       age: 54,
       room: '302-C',
       diagnosis: 'Pneumonia',
@@ -125,7 +125,7 @@ export default function Rounds() {
     },
     {
       id: 4,
-      name: 'Sophia Lee',
+      name: 'Sophia',
       age: 35,
       room: '201-A',
       diagnosis: 'Migraine, Anxiety',
@@ -141,7 +141,7 @@ export default function Rounds() {
     },
     {
       id: 5,
-      name: 'Michael Brown',
+      name: 'Minaj',
       age: 71,
       room: '109-B',
       diagnosis: 'COPD, Heart Failure',
@@ -158,7 +158,7 @@ export default function Rounds() {
     },
     {
       id: 6,
-      name: 'Emily Wilson',
+      name: 'Emily',
       age: 29,
       room: '203-A',
       diagnosis: 'Pregnancy, Gestational Diabetes',
@@ -175,7 +175,7 @@ export default function Rounds() {
     },
     {
       id: 7,
-      name: 'David Kim',
+      name: 'David',
       age: 62,
       room: '304-C',
       diagnosis: 'Post-Stroke Recovery',

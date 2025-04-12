@@ -10,7 +10,7 @@ import { Badge } from '@/components/ui/badge';
 const patients = [
   {
     id: 1,
-    name: 'Robert Johnson',
+    name: 'Rohan',
     age: 68,
     diagnosis: 'Hypertension, Type 2 Diabetes',
     status: 'stable',
@@ -20,7 +20,7 @@ const patients = [
   },
   {
     id: 2,
-    name: 'Maria Garcia',
+    name: 'Maria',
     age: 42,
     diagnosis: 'Post-Op Recovery (Appendectomy)',
     status: 'improving',
@@ -30,7 +30,7 @@ const patients = [
   },
   {
     id: 3,
-    name: 'James Williams',
+    name: 'James',
     age: 54,
     diagnosis: 'Pneumonia',
     status: 'critical',
@@ -40,7 +40,7 @@ const patients = [
   },
   {
     id: 4,
-    name: 'Sophia Lee',
+    name: 'Sophia',
     age: 35,
     diagnosis: 'Migraine, Anxiety',
     status: 'stable',
@@ -50,7 +50,7 @@ const patients = [
   },
   {
     id: 5,
-    name: 'Michael Brown',
+    name: 'Minaj',
     age: 71,
     diagnosis: 'COPD, Heart Failure',
     status: 'declining',

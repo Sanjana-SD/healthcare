@@ -14,7 +14,7 @@ export default function Patients() {
   const patients = [
     {
       id: 1,
-      name: 'Robert Johnson',
+      name: 'Rohan',
       age: 68,
       gender: 'Male',
       diagnosis: 'Hypertension, Type 2 Diabetes',
@@ -25,7 +25,7 @@ export default function Patients() {
     },
     {
       id: 2,
-      name: 'Maria Garcia',
+      name: 'Manoj',
       age: 42,
       gender: 'Female',
       diagnosis: 'Post-Op Recovery (Appendectomy)',
@@ -36,7 +36,7 @@ export default function Patients() {
     },
     {
       id: 3,
-      name: 'James Williams',
+      name: 'James',
       age: 54,
       gender: 'Male',
       diagnosis: 'Pneumonia',
@@ -47,7 +47,7 @@ export default function Patients() {
     },
     {
       id: 4,
-      name: 'Sophia Lee',
+      name: 'Sophia',
       age: 35,
       gender: 'Female',
       diagnosis: 'Migraine, Anxiety',
@@ -58,7 +58,7 @@ export default function Patients() {
     },
     {
       id: 5,
-      name: 'Michael Brown',
+      name: 'Minaj',
       age: 71,
       gender: 'Male',
       diagnosis: 'COPD, Heart Failure',
@@ -69,7 +69,7 @@ export default function Patients() {
     },
     {
       id: 6,
-      name: 'Emily Wilson',
+      name: 'Emily',
       age: 29,
       gender: 'Female',
       diagnosis: 'Pregnancy, Gestational Diabetes',
@@ -80,7 +80,7 @@ export default function Patients() {
     },
     {
       id: 7,
-      name: 'David Kim',
+      name: 'David',
       age: 62,
       gender: 'Male',
       diagnosis: 'Post-Stroke Recovery',
